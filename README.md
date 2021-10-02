@@ -38,4 +38,4 @@ We recognize that not all candidates may be familiar with VS Code, Docker, and/o
 - [JavaScript](https://github.com/sourceallies/interview-javascript-check)
 - [Python](https://github.com/sourceallies/interview-python-check)
 
-Please see [this guide]() for more information.
+Please see [this guide](https://github.com/sourceallies/interviews/blob/main/docs/interview-environment.md) for more information.
