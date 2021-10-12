@@ -4,6 +4,8 @@ This repository contains information about the Source Allies interivew process.
 
 Please see our [careers page](https://www.sourceallies.com/careers/) if you are interested in working on our team!
 
+_This repo is part of an active effort to make our interview process more transparent. Some sections are still missing information._
+
 ## Typical Interview Process
 
 Our interview process typically consists of four steps:
@@ -15,9 +17,15 @@ Our interview process typically consists of four steps:
 
 ## Meeting You
 
+_Please see our [careers page](https://www.sourceallies.com/careers/) while we work to update this section._
+
 ## Self Evaluation
 
+_Please see our [careers page](https://www.sourceallies.com/careers/) while we work to update this section._
+
 ## Coding Exercise
+
+_Please see our [careers page](https://www.sourceallies.com/careers/) while we work to update this section._
 
 ## In-Person Interview
 
