@@ -1,4 +1,4 @@
-# Source Allies Interviews
+# Source Allies Pairing Sessions
 
 This repository contains information about the Source Allies pairing session process.
 
