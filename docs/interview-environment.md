@@ -51,7 +51,7 @@ Run the following commands from within PowerShell.
 
 #### Windows Enabling Optional Features Hyper V and Virtualization
 ###### Enable Windows Hyper-V
-1. On the Windows "Run" the command
+1. Run the following command from the Command Prompt, PowerShell, or the "Run" dialog:
 ```
 optionalfeatures
 ```
